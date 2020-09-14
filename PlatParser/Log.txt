@@ -1,0 +1,4 @@
+[Mon Aug 03 07:33:07 2020] Logging to 'eqlog.txt' is now *ON*.
+[Tue Aug 04 06:46:04 2020] You receive 21 gold, 136 silver and 12 copper from the corpse.
+[Tue Aug 04 06:46:04 2020] You are encumbered!
+[Tue Aug 04 06:46:06 2020] --You have looted a Topaz.--
